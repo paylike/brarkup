@@ -1,7 +1,7 @@
 # Brarkup
 
-A highly opinionated package for compiling html (from [jade](http://jade-
-lang.com/)) in node and inlined using browserify.
+A highly opinionated package for compiling html (from
+[jade](http://jade-lang.com/)) in node and inlined using browserify.
 
 ```js
 var brarkup = require('brarkup');
