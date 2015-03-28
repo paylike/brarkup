@@ -1,6 +1,6 @@
 {
 	"name": "brarkup",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Inline html compiled from jade (incl. browserify transform)",
 	"repository": {
 		"type": "git",
