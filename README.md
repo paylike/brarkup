@@ -1,5 +1,7 @@
 # Brarkup
 
+**Superseded by https://github.com/srcagency/brjade**
+
 A highly opinionated package for compiling html (from
 [jade](http://jade-lang.com/)) in node and inlined using browserify.
 
