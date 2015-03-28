@@ -1,6 +1,5 @@
 'use strict';
 
-var fs = require('fs');
 var path = require('path');
 var through = require('through2');
 var assign = require('object-assign');
